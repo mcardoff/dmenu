@@ -1,0 +1,7 @@
+* Note for the users
+Hello! Thank you for using my dmenu build! Here are the usual flags I use with it:
+#+begin_example
+dmenu_run -fn <font>:size=13' -p '>' -sb '#cc8c3c' -sf '#FAFAFA' -nb '#282828' -nf '#FAFAFA' -c -l 20
+#+end_example
+It was last tested to work on August 29 2021 on Linux Mint
+
